@@ -8,7 +8,7 @@ An AI powered Tool for Readability Assessment and Text Simplification for the Ar
 
 ---
 
-## 🎯 Project Aim & Objectives
+## Project Aim & Objectives
 
 [cite_start]The main goal is to develop an AI tool that performs both **readability assessment** and **text simplification** for the Arabic language[cite: 45].
 
@@ -19,13 +19,13 @@ Our key objectives include:
 
 ---
 
-## 🧐 Problem Definition
+## Problem Definition
 
 [cite_start]Assessing Arabic text readability is challenging due to the language's unique characteristics like rich morphology and syntactic variation[cite: 42]. [cite_start]Current tools are often too simplistic, creating a mismatch between text difficulty and reader ability, which can hinder learning and engagement[cite: 23, 28, 40]. Bayyin aims to solve this by providing a nuanced, AI-driven solution.
 
 ---
 
-## ✨ Features
+## Features
 
 * [cite_start]**Multi-Level Readability Classification**: Classifies Arabic text into 7 distinct readability levels using the BAREC dataset[cite: 218].
 * **Text Simplification**: Implements multiple strategies to simplify complex texts:
@@ -35,7 +35,7 @@ Our key objectives include:
 
 ---
 
-## 🛠️ Methodology
+## Methodology
 
 Our methodology is a multi-step process involving data collection, preprocessing, model training, and simplification.
 
@@ -58,7 +58,7 @@ We will experiment with and compare the following models:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 * Python 3.8+
@@ -113,5 +113,5 @@ python src/simplify.py --text "النص العربي المعقد المراد �
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
