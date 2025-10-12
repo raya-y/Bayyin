@@ -1,0 +1,17 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+xgboost
+
+# NLP & Deep Learning
+nltk
+torch
+transformers
+tensorflow
+datasets
+
+# For Notebooks
+jupyterlab
+matplotlib
+seaborn
