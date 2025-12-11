@@ -19,10 +19,6 @@ Our key objectives include:
 * Evaluating multiple pre-processing and text simplification strategies.
 
 
-## Problem Definition
-
-Assessing Arabic text readability is challenging due to the language's unique characteristics like rich morphology and syntactic variation. Current tools are often too simplistic, creating a mismatch between text difficulty and reader ability, which can hinder learning and engagement. Bayyin aims to solve this by providing a nuanced, AI-driven solution.
----
 ## Quick start
 
 ```bash
@@ -36,7 +32,7 @@ pip install -r requirements.txt
 ## Dependencies
 
 See `requirements.txt` (pandas, numpy, scikit-learn, xgboost, nltk, torch, transformers, tensorflow, datasets, jupyterlab, matplotlib, seaborn).
----
+
 ## Repository structure & file descriptions
 
 - **LICENSE**: MIT license for the project.
@@ -85,7 +81,7 @@ See `requirements.txt` (pandas, numpy, scikit-learn, xgboost, nltk, torch, trans
 
 - **Bayyin dataset / data access:** https://your-data-link.example.com  
 - **Trained Models on Hugging Face:** https://huggingface.co/Raya-y/Bayyin_models/tree/main
----
+
 ## How to reproduce experiments (high level)
 
 1. Prepare dataset: use the file in Bayyin dataset and run it in the notebook that you want to try.
@@ -100,12 +96,12 @@ See `requirements.txt` (pandas, numpy, scikit-learn, xgboost, nltk, torch, trans
 - For reproducible runs, create a Python virtual environment and pin package versions (consider creating `environment.yml` or `pip` constraints).
 
 
----
+
 
 ## Contributors & contact
 This project is submitted for the fulfillment of the requirements for the graduation project at the University of Jeddah. For questions about reproducing results or data access, open an issue on the repository or contact the repository owner.
 
-**Team Members:**
+**Contributors:**
 * Sarah F. Alhalees (2219288) 
 * Nagham A. Alshbrawi (2219273)
 * Raya Y. Abu Aljamal (2310903) 
@@ -116,7 +112,7 @@ This project is submitted for the fulfillment of the requirements for the gradua
 **Supervisor:**
 * Dr. Shahd Alahdal 
 
----
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
