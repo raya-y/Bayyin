@@ -73,7 +73,7 @@ See `requirements.txt` (pandas, numpy, scikit-learn, xgboost, nltk, torch, trans
 
 ## Interface & links
 
-- **Live interface:** https://your-interface.example.com  
+- **Live interface:** [Bayyin Interface](https://bayyininterface-wlj2mzcyuspytwrxpfubt3.streamlit.app/)
 
 - **Interface GitHub repo:** https://github.com/your-org/your-interface-repo  
 
