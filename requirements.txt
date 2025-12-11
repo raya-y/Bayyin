@@ -10,8 +10,18 @@ torch
 transformers
 tensorflow
 datasets
+	# Additional libraries used in notebooks
+	gensim
+	joblib
+	scipy
+	imbalanced-learn
+	tqdm
+	sentencepiece
 
 # For Notebooks
 jupyterlab
 matplotlib
 seaborn
+
+# Optional / advanced (may require system deps or GPU)
+# torch-geometric  # install following PyG instructions: https://pytorch-geometric.readthedocs.io/
