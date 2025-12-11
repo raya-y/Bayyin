@@ -79,8 +79,8 @@ See `requirements.txt` (pandas, numpy, scikit-learn, xgboost, nltk, torch, trans
 
 ## Bayyin data
 
-- **Bayyin dataset / data access:** [ https://your-data-link.example.com  ](https://drive.google.com/file/d/1zUaXcpWQtGX1S3hhXo4ply61wFxH-TDX/view?usp=share_link)
-- **Trained Models on Hugging Face:** https://huggingface.co/Raya-y/Bayyin_models/tree/main
+- **Bayyin dataset / data access:** [Bayyin Dataset](https://drive.google.com/file/d/1zUaXcpWQtGX1S3hhXo4ply61wFxH-TDX/view?usp=share_link)
+- **Trained Models on Hugging Face:** [Bayyin Models](https://huggingface.co/Raya-y/Bayyin_models/tree/main)
 
 ## How to reproduce experiments (high level)
 
